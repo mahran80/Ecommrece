@@ -6,17 +6,12 @@ This is a full-featured ecommerce web application built with **Django**. It supp
 ---
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/1.jpg" width="700" alt="Screenshot 1"/>
-  <img src="https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/2.jpg" width="700" alt="Screenshot 2"/>
-  <img src="https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/3.jpg" width="700" alt="Screenshot 3"/>
-  <img src="https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/4.jpg" width="700" alt="Screenshot 4"/>
-  <img src="https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/5.jpg" width="700" alt="Screenshot 5"/>
-  <img src="https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/6.jpg" width="700" alt="Screenshot 6"/>
-  <img src="https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/7.jpg" width="700" alt="Screenshot 7"/>
-  <img src="https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/8.jpg" width="700" alt="Screenshot 8"/>
-  <img src="https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/9.jpg" width="700" alt="Screenshot 9"/>
-</p>
+![Screen 1](docs/1.jpg)
+![Screen 2](docs/2.jpg)
+![Screen 3](docs/3.jpg)
+![Screen 4](docs/4.jpg)
+![Screen 5](docs/5.jpg)
+![Screen 6](docs/6.jpg)
 
 
 
