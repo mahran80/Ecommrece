@@ -4,6 +4,20 @@
 This is a full-featured ecommerce web application built with **Django**. It supports product management, user authentication, shopping cart, order processing, coupon system, contact form, seller dashboard, and background task processing using **Celery**, **Redis**, and **RabbitMQ**.
 
 ---
+## 📸 Screenshots
+
+<p align="center">
+  <img src="docs/1.jpg" width="700" alt="Screenshot 1"/>
+  <img src="docs/2.jpg" width="700" alt="Screenshot 2"/>
+  <img src="docs/3.jpg" width="700" alt="Screenshot 3"/>
+  <img src="docs/4.jpg" width="700" alt="Screenshot 4"/>
+  <img src="docs/5.jpg" width="700" alt="Screenshot 5"/>
+  <img src="docs/6.jpg" width="700" alt="Screenshot 6"/>
+  <img src="docs/7.jpg" width="700" alt="Screenshot 7"/>
+  <img src="docs/8.jpg" width="700" alt="Screenshot 8"/>
+  <img src="docs/9.jpg" width="700" alt="Screenshot 9"/>
+</p>
+
 
 ## 📦 Features
 
