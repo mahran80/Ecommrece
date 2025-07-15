@@ -5,6 +5,7 @@ This is a full-featured ecommerce web application built with **Django**. It supp
 
 ---
 ## 📸 Screenshots
+```markdown
 ![Screen 1](https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/1.jpg)
 ![Screen 2](https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/2.jpg)
 ![Screen 3](https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/3.jpg)
