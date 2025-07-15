@@ -1,17 +1,22 @@
 ```markdown
+````
+## Screenshots
+
+![Screen 1](docs/1.jpg)
+![Screen 2](docs/2.jpg)
+![Screen 3](docs/3.jpg)
+![Screen 4](docs/4.jpg)
+![Screen 5](docs/5.jpg)
+![Screen 6](docs/6.jpg)
+
+
+
+
 # 🛒 Aya Food – Django Ecommerce Platform
 
 This is a full-featured ecommerce web application built with **Django**. It supports product management, user authentication, shopping cart, order processing, coupon system, contact form, seller dashboard, and background task processing using **Celery**, **Redis**, and **RabbitMQ**.
 
 ---
-## 📸 Screenshots
-```markdown
-![Screen 1](https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/1.jpg)
-![Screen 2](https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/2.jpg)
-![Screen 3](https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/3.jpg)
-![Screen 4](https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/4.jpg)
-![Screen 5](https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/5.jpg)
-![Screen 6](https://raw.githubusercontent.com/mahran80/Ecommrece/main/docs/6.jpg)
 
 ## 📦 Features
 
